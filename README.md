@@ -2,5 +2,11 @@
 Code for the NodeJS tutorial in issue 17 of Linux Voice magazine
 
 yum instaill nodejs npm -y
+
+yum install -y nodejs --nogpgcheck
+
+npm -g install express express-generator supervisor
+
 npm install express --save
+
 npm install socket.io
