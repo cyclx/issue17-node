@@ -10,3 +10,5 @@ npm -g install express express-generator supervisor
 npm install express --save
 
 npm install socket.io
+
+restart nodejs app.js
