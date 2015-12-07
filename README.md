@@ -12,3 +12,5 @@ npm install express --save
 npm install socket.io
 
 restart nodejs app.js
+
+apply at openshfit, but it won`t work. nodejs app.js dont work
